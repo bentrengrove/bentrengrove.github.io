@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bentrengrove</title>
+    <link>http://www.bentrengrove.dev/</link>
+    <description>Recent content on bentrengrove</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Nov 2024 04:38:27 +1100</lastBuildDate>
+    <atom:link href="http://www.bentrengrove.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://www.bentrengrove.dev/posts/helloworld/</link>
+      <pubDate>Thu, 28 Nov 2024 04:38:27 +1100</pubDate>
+      <guid>http://www.bentrengrove.dev/posts/helloworld/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t have any content yet, but thanks for clicking in.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

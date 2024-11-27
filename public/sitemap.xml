@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.bentrengrove.dev/</loc>
+    <lastmod>2024-11-28T04:38:27+11:00</lastmod>
+  </url><url>
+    <loc>http://www.bentrengrove.dev/posts/helloworld/</loc>
+    <lastmod>2024-11-28T04:38:27+11:00</lastmod>
+  </url><url>
+    <loc>http://www.bentrengrove.dev/posts/</loc>
+    <lastmod>2024-11-28T04:38:27+11:00</lastmod>
+  </url><url>
+    <loc>http://www.bentrengrove.dev/authors/</loc>
+  </url><url>
+    <loc>http://www.bentrengrove.dev/categories/</loc>
+  </url><url>
+    <loc>http://www.bentrengrove.dev/series/</loc>
+  </url><url>
+    <loc>http://www.bentrengrove.dev/tags/</loc>
+  </url>
+</urlset>
